@@ -3,7 +3,7 @@ Unit Testing and Integration Testing
 Testing is to check requirements are met, correctness, so that we get maintainability, quality of code,
 performance, optimization, scalability
 
-TDD (Test Driven Dev) vs BDD
+TDD (Test Driven Dev) vs BDD (Behaviour Driven Dev)
 
 - requirment doc
 - unittest/pytest
